@@ -1,6 +1,10 @@
 data
 .ipynb_checkpoints
 *.h5
-models
+*.index
+*.data*
 *.swp
 *.p
+checkpoint
+*.meta
+signnames.csv
