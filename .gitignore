@@ -8,3 +8,4 @@ data
 checkpoint
 *.meta
 signnames.csv
+images/.DS_Store
